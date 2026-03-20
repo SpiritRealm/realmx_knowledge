@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e422ef7424fa5c",
+        "id": "e5ead9268eb3d74b",
         "type": "tabs",
         "children": [
           {
-            "id": "93881d3d8280c179",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
-          },
-          {
-            "id": "6adbf323f1da6826",
+            "id": "22b29834d8d5589e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge_base/01_Resources/Libraries & Inspo/Frontend/Inspo.md",
+                "file": "Backend/express_beginners/Schema Creation for DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inspo"
+              "title": "Schema Creation for DB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "de3207f5f39e736a",
@@ -211,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,33 +219,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6adbf323f1da6826",
+  "active": "22b29834d8d5589e",
   "lastOpenFiles": [
-    "Pasted image 20260319123932.png",
-    "Pasted image 20260319123907.png",
+    "Backend/express_beginners/Connecting Database with Express.md",
+    "Backend/express_beginners/Schema Creation for DB.md",
+    "Backend/express_beginners/Express server.md",
+    "Backend/MongoDB/MongoDB Initialize.md",
+    "Backend/MongoDB",
+    "Backend/Resources",
+    "Pasted image 20260320124227.jpg",
+    "Backend/Resources/REST-API.pdf",
+    "Pasted image 20260320124221.jpg",
+    "Backend/express_beginners",
+    "Backend",
+    "knowledge_base/01_Resources/Libraries & Inspo/Frontend/images/Pasted image 20260319123907.png",
+    "knowledge_base/01_Resources/Libraries & Inspo/Frontend/images/Pasted image 20260319115306.png",
+    "knowledge_base/01_Resources/Libraries & Inspo/Frontend/images/Pasted image 20260319115040.png",
+    "knowledge_base/01_Resources/Libraries & Inspo/Frontend/images",
     "knowledge_base/01_Resources/Libraries & Inspo/Frontend/React,Next,vite.md",
+    "knowledge_base/01_Resources/Libraries & Inspo/Frontend/images/Pasted image 20260319123932.png",
     "knowledge_base/01_Resources/Libraries & Inspo/Frontend/Inspo.md",
-    "Pasted image 20260319115306.png",
-    "Pasted image 20260319115040.png",
     "knowledge_base/Vibe_Agents/Github/Working of the Multiagents.md",
     "knowledge_base/01_Resources/Libraries & Inspo/backend",
     "knowledge_base/01_Resources/Libraries & Inspo/Frontend",
     "knowledge_base/01_Resources/Libraries & Inspo",
     "knowledge_base/Vibe_Agents/Github/Github copilot agentic usage.md",
     "knowledge_base/Vibe_Agents/Github",
-    "knowledge_base/Vibe_Agents",
     "knowledge_base/06_YT_automations/System Restrictions.md",
     "knowledge_base/06_YT_automations/How to generate Images locally from Comfy.md",
     "knowledge_base/06_YT_automations/AI video generation with Comfy.md",
     "knowledge_base/06_YT_automations/Final Outcome and process to Generate YT videos.md",
     "knowledge_base/01_Resources/Github_repos/WhatsApp Bot using whatsapp-webjs.md",
-    "knowledge_base/06_YT_automations",
-    "Resource_Index",
     "Agency Lead Funnel.md",
     "Welcome.md",
-    "create a link.md",
-    "knowledge_base/02_Tech/Automation",
-    "knowledge_base/02_Tech/Web_Dev",
-    "knowledge_base/02_Tech/AI"
+    "create a link.md"
   ]
 }
